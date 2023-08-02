@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeAnthony-H
 - 👀 I’m interested in ... Front-end Development
-- 🌱 I’m currently learning ... Javascript DOM
+- 🌱 I’m currently learning ... Asynchrous Javascript
 - 💞️ I’m looking to collaborate on ... Open souce projects
 - 📫 How to reach me ... hatterwballc@gmail.com
 
